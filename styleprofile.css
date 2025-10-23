@@ -24,3 +24,6 @@ nav ul li a:hover {
   color: #ff6b6b;
   text-decoration: underline;
 }
+.profile img{
+    width: 250px;
+}
